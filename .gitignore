@@ -7,3 +7,5 @@ Properties
 *.psess
 *.vsp
 !packages.config
+.vspscc
+.user
